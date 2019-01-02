@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/lockscreen_activity_main.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/lockscreen_activity_main.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/iris.wang/.android/build-cache/90fd1ec81f3951adbb351cc5e6f52fd14d3af71a/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/page_item.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/page_item.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/news_headline_view.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/news_headline_view.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/unlock_layout_main.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/unlock_layout_main.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/iris.wang/.android/build-cache/90fd1ec81f3951adbb351cc5e6f52fd14d3af71a/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/iris.wang/.android/build-cache/90fd1ec81f3951adbb351cc5e6f52fd14d3af71a/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/fragment_recycle_view.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/fragment_recycle_view.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/fragment_native_ads.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/fragment_native_ads.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/activity_native_ads.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/activity_native_ads.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/grid_meizi_item.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/grid_meizi_item.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/news_tile_view.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/news_tile_view.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/photos_item_view.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/photos_item_view.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/pages.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/pages.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/activity_pre_roll.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/activity_pre_roll.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/activity_splash_fullscreen.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/activity_splash_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/iris.wang/.android/build-cache/90fd1ec81f3951adbb351cc5e6f52fd14d3af71a/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/news_board.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/news_board.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/page_item_view.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/src/main/res/layout/page_item_view.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/layout/design_navigation_item_separator.xml"
+    }
+]

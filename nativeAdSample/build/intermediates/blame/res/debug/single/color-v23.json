@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

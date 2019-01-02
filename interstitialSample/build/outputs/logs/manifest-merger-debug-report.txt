@@ -1,0 +1,329 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:4:11-51
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/iris.wang/.android/build-cache/0b36175a14bfbaa995f89a37f647c07960c94fa6/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/iris.wang/.android/build-cache/33a47bc89c3ea4485caef0740451bdd0ecce0e11/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/iris.wang/.android/build-cache/dba054920569dc11788fa1bea0360812588d0fe0/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/iris.wang/.android/build-cache/0b36175a14bfbaa995f89a37f647c07960c94fa6/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/iris.wang/.android/build-cache/11fcd8f289b0ff601099f77b47b75954f5b15211/output/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/iris.wang/.android/build-cache/dba054920569dc11788fa1bea0360812588d0fe0/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:11:22-63
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:12:5-93
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:12:22-91
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:13:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:14:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:16:22-72
+application
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:18:5-67:19
+MERGED from [com.android.support:design:24.2.1] /Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] /Users/iris.wang/.android/build-cache/81e83e77e0260d482ed99968e96593ca45860295/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/iris.wang/.android/build-cache/0b36175a14bfbaa995f89a37f647c07960c94fa6/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/iris.wang/.android/build-cache/634ef17bcd107c3f51f872b0fa421c0a4904aa97/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /Users/iris.wang/.android/build-cache/098606fdb2498943c033fcc2619d16f88fda7265/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /Users/iris.wang/.android/build-cache/00b56da2dec0194fa19f8e1639e1a6da7c6dbbdc/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/iris.wang/.android/build-cache/be10013ce1a3223ef4a0a2505da9f41333419d7c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/iris.wang/.android/build-cache/a5833472d1e50a8703e42af6d960f830cb27144f/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /Users/iris.wang/.android/build-cache/f2d24812506e99ed3440f9123112b438cea925ca/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /Users/iris.wang/.android/build-cache/4ba9e45c75754e103de9f49aec14dcb275fcd77d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/iris.wang/.android/build-cache/ccee6c9abd8328fdd15ad53e4973c005584bc784/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/iris.wang/.android/build-cache/33a47bc89c3ea4485caef0740451bdd0ecce0e11/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/iris.wang/.android/build-cache/90fd1ec81f3951adbb351cc5e6f52fd14d3af71a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/iris.wang/.android/build-cache/11fcd8f289b0ff601099f77b47b75954f5b15211/output/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /Users/iris.wang/.android/build-cache/52d20303e0968da12af2ed67bc9f024455ba1eee/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /Users/iris.wang/.android/build-cache/0d1457ce9ea1cdd5b7f6c9e7f2d6cd72f6d257b4/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /Users/iris.wang/.android/build-cache/e004cf227969ecdbfb84f89016343e96cc24e358/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /Users/iris.wang/.android/build-cache/ca3d35a744e5fd7d4f3d59fa1355b22b8fb56f9d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /Users/iris.wang/.android/build-cache/6ba9e7f9e9163a7ae18460dc5f8593216c639179/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/iris.wang/.android/build-cache/dba054920569dc11788fa1bea0360812588d0fe0/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/iris.wang/.android/build-cache/147e586729d1b018edf77104ec9eb2a0764f8ae7/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/iris.wang/.android/build-cache/61ebc5477c523968b3fded0c4f9f7b4fbc951323/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.1] /Users/iris.wang/.android/build-cache/49d829e745c46c3d70956cc78545b48c3f136929/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/iris.wang/.android/build-cache/9bbf60dcf9105e08d6c208c2cffc8e61968504d7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/iris.wang/.android/build-cache/a4361470bf7831b713b212dc0e3f6cbf83fd9aff/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/iris.wang/.android/build-cache/cb50269b93f5eebc354a862e715a0fa533256e13/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/iris.wang/.android/build-cache/15b09211d282ae08705995cca7af484638c65a61/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/iris.wang/.android/build-cache/2b4e0a04d2434a948521d49d97ed81c6c3e4d200/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:21:13-45
+	android:allowBackup
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:19:13-39
+	android:icon
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:20:13-42
+	android:theme
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:22:13-72
+activity#com.inmobi.interstitial.sample.InterstitialAdsActivity
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:26:9-36:20
+	android:screenOrientation
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:31:17-53
+	android:label
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:28:17-49
+	tools:ignore
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:29:17-47
+	android:configChanges
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:30:17-119
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:27:17-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:34:27-74
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:38:9-44:49
+	android:hardwareAccelerated
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:42:17-51
+	android:resizeableActivity
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:41:17-51
+	tools:ignore
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:44:17-47
+	android:configChanges
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:40:17-119
+	android:theme
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:43:17-64
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:39:17-69
+receiver#com.inmobi.commons.core.utilities.uid.ImIdShareBroadCastReceiver
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:46:9-54:20
+	android:enabled
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:48:17-39
+	android:exported
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:49:17-40
+	tools:ignore
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:50:17-48
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:47:17-96
+intent-filter#com.inmobi.share.id
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:51:13-53:29
+action#com.inmobi.share.id
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:52:17-61
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:52:25-59
+service#com.inmobi.signals.activityrecognition.ActivityRecognitionManager
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:56:9-58:41
+	android:enabled
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:58:17-39
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:57:17-97
+service#com.inmobi.ads.ApkDownloader$ApkDownloadService
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:59:9-61:37
+	android:enabled
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:61:13-35
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:60:13-75
+meta-data#com.google.android.gms.version
+ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:63:9-65:72
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/iris.wang/.android/build-cache/61ebc5477c523968b3fded0c4f9f7b4fbc951323/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:65:17-70
+	android:name
+		ADDED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml:64:17-62
+uses-sdk
+INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] /Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/iris.wang/.android/build-cache/fa709f63f7ed4a552a836f5dda3a1ace3411eb63/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:8.4.0] /Users/iris.wang/.android/build-cache/81e83e77e0260d482ed99968e96593ca45860295/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/iris.wang/.android/build-cache/0b36175a14bfbaa995f89a37f647c07960c94fa6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/iris.wang/.android/build-cache/634ef17bcd107c3f51f872b0fa421c0a4904aa97/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /Users/iris.wang/.android/build-cache/098606fdb2498943c033fcc2619d16f88fda7265/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /Users/iris.wang/.android/build-cache/00b56da2dec0194fa19f8e1639e1a6da7c6dbbdc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/iris.wang/.android/build-cache/be10013ce1a3223ef4a0a2505da9f41333419d7c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/iris.wang/.android/build-cache/a5833472d1e50a8703e42af6d960f830cb27144f/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /Users/iris.wang/.android/build-cache/f2d24812506e99ed3440f9123112b438cea925ca/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /Users/iris.wang/.android/build-cache/4ba9e45c75754e103de9f49aec14dcb275fcd77d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/iris.wang/.android/build-cache/ccee6c9abd8328fdd15ad53e4973c005584bc784/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/iris.wang/.android/build-cache/33a47bc89c3ea4485caef0740451bdd0ecce0e11/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/iris.wang/.android/build-cache/90fd1ec81f3951adbb351cc5e6f52fd14d3af71a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/iris.wang/.android/build-cache/11fcd8f289b0ff601099f77b47b75954f5b15211/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /Users/iris.wang/.android/build-cache/52d20303e0968da12af2ed67bc9f024455ba1eee/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /Users/iris.wang/.android/build-cache/0d1457ce9ea1cdd5b7f6c9e7f2d6cd72f6d257b4/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /Users/iris.wang/.android/build-cache/e004cf227969ecdbfb84f89016343e96cc24e358/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /Users/iris.wang/.android/build-cache/ca3d35a744e5fd7d4f3d59fa1355b22b8fb56f9d/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] /Users/iris.wang/.android/build-cache/489055a5b079b7dddad78c58e83f13bdd3c892bb/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /Users/iris.wang/.android/build-cache/6ba9e7f9e9163a7ae18460dc5f8593216c639179/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/iris.wang/.android/build-cache/dba054920569dc11788fa1bea0360812588d0fe0/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/iris.wang/.android/build-cache/147e586729d1b018edf77104ec9eb2a0764f8ae7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/iris.wang/.android/build-cache/61ebc5477c523968b3fded0c4f9f7b4fbc951323/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.1] /Users/iris.wang/.android/build-cache/49d829e745c46c3d70956cc78545b48c3f136929/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/iris.wang/.android/build-cache/9bbf60dcf9105e08d6c208c2cffc8e61968504d7/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/iris.wang/.android/build-cache/a4361470bf7831b713b212dc0e3f6cbf83fd9aff/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/iris.wang/.android/build-cache/cb50269b93f5eebc354a862e715a0fa533256e13/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/iris.wang/.android/build-cache/15b09211d282ae08705995cca7af484638c65a61/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/iris.wang/.android/build-cache/2b4e0a04d2434a948521d49d97ed81c6c3e4d200/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android:multidex:0.1] /Users/iris.wang/.android/build-cache/84fe830455cbc43df384fb950b2928ac93d099c8/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/interstitialSample/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/iris.wang/.android/build-cache/fe26430d6105844121f6b1943d68df7e62d1e036/output/AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/iris.wang/.android/build-cache/6de81575a0f8c895547cea66cff7fc4b6c76ea90/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/iris.wang/.android/build-cache/2f6ad026be66a641f6552ff46521252215a9259d/output/AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/iris.wang/.android/build-cache/33a47bc89c3ea4485caef0740451bdd0ecce0e11/output/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/iris.wang/.android/build-cache/33a47bc89c3ea4485caef0740451bdd0ecce0e11/output/AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/iris.wang/.android/build-cache/91ad659947f44eb0b0bf894e4f972fd4eda8440f/output/AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/iris.wang/.android/build-cache/dba054920569dc11788fa1bea0360812588d0fe0/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/iris.wang/.android/build-cache/dba054920569dc11788fa1bea0360812588d0fe0/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/iris.wang/.android/build-cache/dba054920569dc11788fa1bea0360812588d0fe0/output/AndroidManifest.xml:24:8-31

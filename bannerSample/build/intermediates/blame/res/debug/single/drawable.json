@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/bg_parent_rounded_corner.xml",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/src/main/res/drawable/bg_parent_rounded_corner.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/0a4da92880667348e405bcdb5face403e90f8ea7/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/iris.wang/.android/build-cache/00b56da2dec0194fa19f8e1639e1a6da7c6dbbdc/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/iris.wang/.android/build-cache/5489df53f7d2e33f3cc0e3a89485ea599d4aff95/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/bannerSample/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/iris.wang/.android/build-cache/87d5b1785411e760a0cdb6fc430899e21542022f/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    }
+]

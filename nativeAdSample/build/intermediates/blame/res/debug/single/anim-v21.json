@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/iris.wang/Desktop/github/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/iris.wang/.android/build-cache/b12cdb53a7de8964a196a9675a8fe4746e2e8533/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]
