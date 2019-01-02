@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/iris.wang/Desktop/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3125d982740eca770692cf5a6ae7db6d82a2d5ca">
+        <dex dex="/Users/iris.wang/Desktop/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6310dd840099a9e469eca6d58e7a7ce5698ba419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iris.wang/Desktop/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/iris.wang/Desktop/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c147e8d2cc7452a49a772ce715895bfa3539da66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iris.wang/Desktop/InMobiNativeRebootAndroid-master/nativeAdSample/libs/InMobi-7.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d370480a752660db3189053dafb521c6d238c23b">
+        <dex dex="/Users/iris.wang/Desktop/InMobiNativeRebootAndroid-master/nativeAdSample/build/intermediates/transforms/dex/debug/folders/1000/2/InMobi-7.2.2_d519b2f5f43f13611208e649e086b5d2b77ed5cc/classes.dex" />
+    </item>
+
+</items>
